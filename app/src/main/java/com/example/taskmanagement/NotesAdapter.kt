@@ -149,6 +149,7 @@ class NotesAdapter(private var notes: List<Note>, private val context: Context) 
         notes = newNotes
         notifyDataSetChanged()
     }
+    //change1
 }
 
 
